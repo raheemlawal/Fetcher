@@ -1,4 +1,4 @@
-Fetcher is an app for Apple's Vision Pro that showcases fetching data from a deployed API.
+Fetcher is an app for Apple's Vision Pro that showcases fetching data from a hosted database through a deployed API.
 
 Running App (in Living Room during Day).
 
